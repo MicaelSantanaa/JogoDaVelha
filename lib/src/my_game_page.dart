@@ -125,7 +125,7 @@ class _MyGameState extends State<MyGame> {
         style: ElevatedButton.styleFrom(
             fixedSize: const Size(200, 60), backgroundColor: Colors.amber),
         child: Text(
-          jogadas > 0 ? "Jogar Novamente" : "Bora Jogar!",
+          jogadas > 0 ? "Jogar Novamente!" : "Bora Jogar!",
           style: const TextStyle(fontSize: 20, color: Colors.black),
           textAlign: TextAlign.center,
         ),
