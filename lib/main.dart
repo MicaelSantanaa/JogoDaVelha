@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:jogo_da_velha/src/widgets/page/my_game_page.dart';
+import 'package:jogo_da_velha/src/my_game_page.dart';
 
 void main() {
   runApp(const MyApp());
